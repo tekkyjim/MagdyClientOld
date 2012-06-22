@@ -1,0 +1,39 @@
+# Configuration file
+# Generated on 22/06/12 15:15
+
+####################
+# block 
+####################
+
+block {
+}
+
+####################
+# general 
+####################
+
+general {
+}
+
+####################
+# item 
+####################
+
+item {
+}
+
+####################
+# locale.en.us 
+####################
+
+locale.en.us {
+   item.ItemRemoteSensorKit.name=Remote Sensor Kit
+   item.ItemSensorLocationCard.name=Sensor Location Card
+   item.ItemToolDigitalThermometer.name=Digital Thermometer
+   item.ItemToolThermometer.name=Thermometer
+   tile.blockHowlerAlarm.name=Howler Alarm
+   tile.blockIndustrialAlarm.name=Industrial Alarm
+   tile.blockRemoteThermo.name=Remote Thermal Monitor
+   tile.blockThermalMonitor.name=Thermal Monitor
+}
+

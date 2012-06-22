@@ -1,0 +1,70 @@
+
+OptiFine_1.2.5_HD_MT_B2
+Fri Jun 22 15:14:57 BST 2012
+OS: Windows 7 (amd64) version 6.1
+Java: 1.7.0_05, Oracle Corporation
+VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+LWJGL: 2.8.3
+OpenGL: ATI Radeon 3000 Graphics version 3.3.11631 Compatibility Profile Context, ATI Technologies Inc.
+OpenGL Version: 3.3
+OpenGL Fancy fog: Not available (GL_NV_fog_distance)
+TextureFX registered: buildcraft.energy.TextureOilFX@17407dc6, texId: 66, index: 205
+TextureFX registered: buildcraft.energy.TextureFuelFX@1ff1b363, texId: 67, index: 48
+TextureFX registered: buildcraft.energy.TextureOilFlowFX@353838f7, texId: 66, index: 206
+TextureFX registered: buildcraft.core.CoreProxy$CustomModTextureStatic@2bcca11e, texId: 66, index: 144
+TextureFX registered: buildcraft.core.CoreProxy$CustomModTextureStatic@2613622c, texId: 66, index: 145
+TextureFX registered: buildcraft.core.CoreProxy$CustomModTextureStatic@5ba240e5, texId: 66, index: 146
+TextureFX registered: buildcraft.core.CoreProxy$CustomModTextureStatic@3717efb2, texId: 66, index: 147
+TextureFX registered: buildcraft.core.CoreProxy$CustomModTextureStatic@5cec13e0, texId: 66, index: 148
+TextureFX registered: buildcraft.core.CoreProxy$CustomModTextureStatic@7178b9e6, texId: 66, index: 149
+TextureFX registered: buildcraft.core.CoreProxy$CustomModTextureStatic@55ac0673, texId: 66, index: 150
+TextureFX registered: buildcraft.core.CoreProxy$CustomModTextureStatic@6f9f2580, texId: 66, index: 151
+TextureFX registered: buildcraft.core.CoreProxy$CustomModTextureStatic@5b9771df, texId: 66, index: 152
+TextureFX registered: buildcraft.core.CoreProxy$CustomModTextureStatic@2d8e9b8e, texId: 66, index: 153
+TextureFX registered: buildcraft.core.CoreProxy$CustomModTextureStatic@2a10f4a7, texId: 66, index: 154
+TextureFX registered: buildcraft.core.CoreProxy$CustomModTextureStatic@15b5f1da, texId: 66, index: 155
+TextureFX registered: buildcraft.core.CoreProxy$CustomModTextureStatic@413d26d2, texId: 66, index: 156
+TextureFX registered: buildcraft.core.CoreProxy$CustomModTextureStatic@30c1a834, texId: 66, index: 157
+TextureFX registered: buildcraft.core.CoreProxy$CustomModTextureStatic@74faf68b, texId: 66, index: 158
+TextureFX registered: buildcraft.core.CoreProxy$CustomModTextureStatic@289c5258, texId: 66, index: 159
+TextureFX registered: forestry.core.TextureBiomassFX@176f2383, texId: 33, index: 13
+TextureFX registered: forestry.core.TextureBiofuelFX@184797a, texId: 33, index: 12
+TextureFX registered: forestry.factory.TextureMilkFX@2043395d, texId: 33, index: 15
+TextureFX registered: forestry.core.TextureHoneyFX@1d6b1937, texId: 33, index: 76
+TextureFX registered: forestry.factory.TextureSeedOilFX@624478f7, texId: 33, index: 74
+TextureFX registered: forestry.core.TextureJuiceFX@7d61d287, texId: 33, index: 75
+TextureFX registered: forestry.core.TextureMeadFX@2144dd60, texId: 33, index: 77
+TextureFX registered: forestry.core.TextureHabitatLocatorFX@10518c6a, texId: 33, index: 105
+TextureFX registered: bv@410b7f7c, texId: 209, index: 237
+TextureFX registered: qa@395bc059, texId: 209, index: 205
+TextureFX registered: zp@36b1307a, texId: 209, index: 14
+TextureFX registered: tu@3c1f33f2, texId: 210, index: 54
+TextureFX registered: ht@5796fabe, texId: 210, index: 70
+TextureFX registered: ael@7927fcde, texId: 209, index: 206
+TextureFX registered: gf@304a90f6, texId: 209, index: 238
+TextureFX registered: nh@6f731f3e, texId: 209, index: 31
+TextureFX registered: nh@6f08589b, texId: 209, index: 47
+TextureFX removed: bv@410b7f7c, texId: 209, index: 237
+TextureFX registered: TextureHDLavaFX@466e6cb7, texId: 209, index: 237
+TextureFX removed: qa@395bc059, texId: 209, index: 205
+TextureFX registered: TextureHDWaterFX@7ba38680, texId: 209, index: 205
+TextureFX removed: zp@36b1307a, texId: 209, index: 14
+TextureFX registered: TextureHDPortalFX@2cd37cea, texId: 209, index: 14
+TextureFX removed: ael@7927fcde, texId: 209, index: 206
+TextureFX registered: TextureHDWaterFlowFX@70adfda3, texId: 209, index: 206
+TextureFX removed: gf@304a90f6, texId: 209, index: 238
+TextureFX registered: TextureHDLavaFlowFX@2ee71220, texId: 209, index: 238
+TextureFX removed: nh@6f731f3e, texId: 209, index: 31
+TextureFX registered: TextureHDFlamesFX@44570aee, texId: 209, index: 31
+TextureFX removed: nh@6f08589b, texId: 209, index: 47
+TextureFX registered: TextureHDFlamesFX@2e8eb24f, texId: 209, index: 47
+TextureFX removed: tu@3c1f33f2, texId: 210, index: 54
+TextureFX registered: TextureHDCompassFX@5bd9e937, texId: 210, index: 54
+TextureFX removed: ht@5796fabe, texId: 210, index: 70
+TextureFX registered: TextureHDWatchFX@1ffe8bbe, texId: 210, index: 70
+Loading custom colors: /misc/grasscolor.png
+Loading custom colors: /misc/foliagecolor.png
+TextureFX registered: dan200.computer.client.TextureComputerFX@225fd7c0, texId: 28, index: 4
+TextureFX registered: eloraam.core.TextureAnimFX@55f61416, texId: 207, index: 239
+TextureFX registered: eloraam.core.TextureAnimFX@6d540b48, texId: 207, index: 255
+TextureFX registered: ModTextureStatic@1bc54f78, texId: 210, index: 38

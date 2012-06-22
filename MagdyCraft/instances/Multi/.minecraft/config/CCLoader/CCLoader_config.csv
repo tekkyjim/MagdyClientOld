@@ -1,0 +1,9 @@
+Name,Regex,Contained File,Priority,Has Advanced Config
+ModLoader,^ModLoader,ModLoader.class,0,0
+ModLoaderMp,^ModLoaderMP,ModLoaderMp.class,0,0
+Forge,^minecraftforge,forge/MinecraftForge.class,50,0
+Optifine,^OptiFine,,500,1
+Convenient Inventory,^CI,ConvenientInventory.class,2000,0
+Not Enough Items,^NotEnoughItems,net/minecraft/src/mod_NotEnoughItems.class,2005,1
+ComputerCraft,^ComputerCraft,,5000,1
+IndustrialCraft 2,^industrialcraft-2,,5001,0

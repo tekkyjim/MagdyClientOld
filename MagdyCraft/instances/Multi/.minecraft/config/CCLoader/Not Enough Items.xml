@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cclconfig>
+	<mod edit="Convenient Inventory">
+		<patch>ConvenientInventory.class</patch>
+	</mod>
+	<config>
+		<file>config/NEI.cfg</file>
+		<file>config/NEIServer.cfg</file>
+	</config>
+</cclconfig>
