@@ -166,3 +166,6 @@ pip-log.txt
 options.txt
 optionsof.txt
 optifog.log
+MagdyCraft/instances/Multi/.minecraft/journeyMap/data
+*.log
+*.log.lck
