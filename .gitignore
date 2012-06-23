@@ -169,3 +169,7 @@ optifog.log
 MagdyCraft/instances/Multi/.minecraft/journeyMap/data
 *.log
 *.log.lck
+MagdyCraft/instances/Multi/.minecraft/stats
+MagdyCraft/instances/Multi/.minecraft/saves
+MagdyCraft/instances/Multi/.minecraft/texturepacks
+MagdyCraft/instances/Multi/.minecraft/screenshots
