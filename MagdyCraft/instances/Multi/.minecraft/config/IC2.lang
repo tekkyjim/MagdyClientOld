@@ -1,5 +1,5 @@
 # Configuration file
-# Generated on 03/07/12 10:04
+# Generated on 03/07/12 16:53
 
 ####################
 # block 
@@ -122,6 +122,7 @@ general {
    death.electricity=%1$s was electrocuted
    death.nuke=%1$s was nuked
    death.radiation=%1$s died from radiation
+   debugItem.name=Debug Item
    energyStorageUpgrade.name=Energy Storage Upgrade
    item.cropSeedInvalid.name=Seed is missing data - bug?
    item.cropSeedUn.name=Unknown Seeds

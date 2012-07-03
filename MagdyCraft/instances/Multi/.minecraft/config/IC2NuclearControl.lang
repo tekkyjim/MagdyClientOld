@@ -1,5 +1,5 @@
 # Configuration file
-# Generated on 03/07/12 10:04
+# Generated on 03/07/12 16:53
 
 ####################
 # block 
@@ -27,12 +27,35 @@ item {
 ####################
 
 locale.en.us {
+   item.ItemRangeUpgrade.name=Range Upgrade
    item.ItemRemoteSensorKit.name=Remote Sensor Kit
    item.ItemSensorLocationCard.name=Sensor Location Card
    item.ItemToolDigitalThermometer.name=Digital Thermometer
    item.ItemToolThermometer.name=Thermometer
+   msg.nc.HowlerAlarmSound=Sound
+   msg.nc.HowlerAlarmSoundRange=Sound range: %s
+   msg.nc.InfoPanelHeat=T: %s
+   msg.nc.InfoPanelMaxHeat=MaxHeat: %s
+   msg.nc.InfoPanelMelting=Melting: %s
+   msg.nc.InfoPanelOff=Off
+   msg.nc.InfoPanelOn=On
+   msg.nc.InfoPanelOutput=Output: %sEU/t
+   msg.nc.InfoPanelTimeRemaining=Remaining: %s
+   msg.nc.SensorKit=Remote Sensor mounted, Sensor Location Card received
+   msg.nc.ThermalMonitorSave=Save setting
+   msg.nc.ThermalMonitorSignalAt=Signal at %s heat
+   msg.nc.Thermo=Hull heat: %s
+   msg.nc.ThermoDigital=Hull heat: %s (Water evaporate: %s / melting: %s)
+   msg.nc.cbInfoPanelHeat=Heat level
+   msg.nc.cbInfoPanelMaxHeat=Max heat
+   msg.nc.cbInfoPanelMelting=Melting temp
+   msg.nc.cbInfoPanelOnOff=On/Off status
+   msg.nc.cbInfoPanelOutput=Output (EU/t)
+   msg.nc.cbInfoPanelTimeRemaining=Time to cycle end
    tile.blockHowlerAlarm.name=Howler Alarm
    tile.blockIndustrialAlarm.name=Industrial Alarm
+   tile.blockInfoPanel.name=Reactor Information Panel
+   tile.blockInfoPanelExtender.name=Information Panel Extender
    tile.blockRemoteThermo.name=Remote Thermal Monitor
    tile.blockThermalMonitor.name=Thermal Monitor
 }

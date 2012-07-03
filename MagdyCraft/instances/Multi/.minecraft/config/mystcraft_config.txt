@@ -1,0 +1,66 @@
+# Configuration file
+# Generated on 03/07/12 16:53
+
+####################
+# block 
+####################
+
+block {
+   block.bookstand.id=130
+   block.crystal.id=133
+   block.linkportal.id=135
+   block.receptacle.id=136
+   block.starfissure.id=134
+   block.unstable.id=132
+   block.writingdesk.id=131
+}
+
+####################
+# entity 
+####################
+
+entity {
+   entity.book.id=220
+   entity.falling.id=221
+}
+
+####################
+# general 
+####################
+
+general {
+   options.instability=true
+   options.renderlabels=true
+}
+
+####################
+# item 
+####################
+
+item {
+   item.agebook.id=200
+   item.linkbook.id=201
+   item.notebook.id=203
+   item.writingdesk.id=202
+}
+
+####################
+# packet 
+####################
+
+packet {
+   packet.agedata.id=135
+   packet.falling.id=133
+   packet.openwindow.id=134
+   packet.tileentity.id=136
+}
+
+####################
+# texture 
+####################
+
+texture {
+   block.crystal.texture=175
+   block.unstable.texture=167
+}
+
