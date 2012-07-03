@@ -1,511 +1,511 @@
-Jul 03, 2012 12:31:39 AM ModLoader init
+Jul 03, 2012 10:04:35 AM ModLoader init
 FINE: ModLoader 1.2.5 Initializing...
-Jul 03, 2012 12:31:39 AM ModLoader readFromClassPath
+Jul 03, 2012 10:04:35 AM ModLoader readFromClassPath
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\bin\minecraft.jar
-Jul 03, 2012 12:31:39 AM ModLoader readFromClassPath
+Jul 03, 2012 10:04:35 AM ModLoader readFromClassPath
 FINER: Zip found.
-Jul 03, 2012 12:31:39 AM ModLoader addMod
+Jul 03, 2012 10:04:35 AM ModLoader addMod
 FINE: Mod Initialized: "mod_3DItems_Forge 1.2" from mod_3DItems_Forge.class
-Jul 03, 2012 12:31:39 AM ModLoader addMod
+Jul 03, 2012 10:04:35 AM ModLoader addMod
 FINE: Mod Initialized: "mod_4096Fix v4 for 1.2.5" from mod_4096Fix.class
-Jul 03, 2012 12:31:39 AM ModLoader addMod
+Jul 03, 2012 10:04:35 AM ModLoader addMod
 FINE: Mod Initialized: "mod_CodeChickenCore 0.5.3" from mod_CodeChickenCore.class
-Jul 03, 2012 12:31:39 AM ModLoader setupProperties
+Jul 03, 2012 10:04:35 AM ModLoader setupProperties
 FINER: SPAWNER_ALLOW_ON_INVERTED set to true
-Jul 03, 2012 12:31:39 AM ModLoader addMod
+Jul 03, 2012 10:04:35 AM ModLoader addMod
 FINE: Mod Initialized: "mod_MinecraftForge 3.1.3.105" from mod_MinecraftForge.class
-Jul 03, 2012 12:31:39 AM ModLoader addMod
+Jul 03, 2012 10:04:35 AM ModLoader addMod
 FINE: Mod Initialized: "mod_NotEnoughItems 1.2.2.4" from mod_NotEnoughItems.class
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\1.2.5_Jammy_Furniture_Mod_Client_V3.6.zip
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:39 AM ModLoader addMod
+Jul 03, 2012 10:04:35 AM ModLoader addMod
 FINE: Mod Initialized: "mod_JammyFurniture 3.6" from mod_JammyFurniture.class
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\[1.2.5]ReiMinimap_v3.2_04.zip
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:39 AM ModLoader addMod
+Jul 03, 2012 10:04:35 AM ModLoader addMod
 FINE: Mod Initialized: "mod_ReiMinimap v3.2_04 [1.2.5]" from mod_ReiMinimap.class
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\Advanced Hud 4.3.zip
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:39 AM ModLoader addMod
+Jul 03, 2012 10:04:35 AM ModLoader addMod
 FINE: Mod Initialized: "mod_AdvancedHud 4.3" from mod_AdvancedHud.class
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\AdvancedMachines_4.0_client.zip
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:39 AM ModLoader addMod
+Jul 03, 2012 10:04:35 AM ModLoader addMod
 FINE: Mod Initialized: "mod_IC2AdvancedMachines v4.0" from mod_IC2AdvancedMachines.class
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\BattleTowers AS.zip
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:39 AM ModLoader addMod
+Jul 03, 2012 10:04:35 AM ModLoader addMod
 FINE: Mod Initialized: "mod_AS_BattleTowers 1.1.0 @ MC 1.2.5" from mod_AS_BattleTowers.class
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\buildcraft-C-additionalbuildcraftobjects-latest.zip
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:39 AM ModLoader addMod
+Jul 03, 2012 10:04:35 AM ModLoader addMod
 FINE: Mod Initialized: "mod_AdditionalBuildcraftObjects 0.9.1-97 (MC 1.2.5, BC 2.2.14)" from mod_AdditionalBuildcraftObjects.class
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\buildcraft-client-A-core-2.2.14.zip
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:39 AM ModLoader addMod
+Jul 03, 2012 10:04:35 AM ModLoader addMod
 FINE: Mod Initialized: "mod_BuildCraftCore 2.2.14" from mod_BuildCraftCore.class
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\buildcraft-client-B-builders-2.2.14.zip
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:39 AM ModLoader addMod
+Jul 03, 2012 10:04:35 AM ModLoader addMod
 FINE: Mod Initialized: "mod_BuildCraftBuilders 2.2.14" from mod_BuildCraftBuilders.class
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\buildcraft-client-B-energy-2.2.14.zip
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:39 AM ModLoader addMod
+Jul 03, 2012 10:04:35 AM ModLoader addMod
 FINE: Mod Initialized: "mod_BuildCraftEnergy 2.2.14" from mod_BuildCraftEnergy.class
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\buildcraft-client-B-factory-2.2.14.zip
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:39 AM ModLoader addMod
+Jul 03, 2012 10:04:35 AM ModLoader addMod
 FINE: Mod Initialized: "mod_BuildCraftFactory 2.2.14" from mod_BuildCraftFactory.class
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\buildcraft-client-B-transport-2.2.14.zip
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:39 AM ModLoader addMod
+Jul 03, 2012 10:04:35 AM ModLoader addMod
 FINE: Mod Initialized: "mod_BuildCraftTransport 2.2.14" from mod_BuildCraftTransport.class
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\buildcraft-client-DA-additionalpipes-2.1.3.zip
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:39 AM forge.ForgeHooks <clinit>
+Jul 03, 2012 10:04:35 AM forge.ForgeHooks <clinit>
 INFO: MinecraftForge v3.1.3.105 Initialized
 
-Jul 03, 2012 12:31:39 AM ModLoader addMod
+Jul 03, 2012 10:04:35 AM ModLoader addMod
 FINE: Mod Initialized: "mod_AdditionalPipes 2.1.3 (Minecraft 1.2.5, Buildcraft 2.2.14, Forge 3.0.1.75)" from mod_AdditionalPipes.class
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\ccSensors
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Directory found.
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\ccSensors-client-MC125-B017pr1.zip
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:39 AM ModLoader addMod
+Jul 03, 2012 10:04:35 AM ModLoader addMod
 FINE: Mod Initialized: "mod_ccSensors MC1.2.5 Build017pr1" from mod_ccSensors.class
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\CiderBoats Client v1.2.zip
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:39 AM ModLoader addMod
+Jul 03, 2012 10:04:35 AM ModLoader addMod
 FINE: Mod Initialized: "mod_CiderBoats 1.2.5" from mod_CiderBoats.class
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\ComputerCraft
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Directory found.
-Jul 03, 2012 12:31:39 AM ModLoader setupProperties
+Jul 03, 2012 10:04:35 AM ModLoader setupProperties
 FINER: turtleBlockID set to 209
-Jul 03, 2012 12:31:39 AM ModLoader addMod
+Jul 03, 2012 10:04:35 AM ModLoader addMod
 FINE: Mod Initialized: "mod_CCTurtle 1.33" from mod_CCTurtle.class
-Jul 03, 2012 12:31:39 AM ModLoader setupProperties
+Jul 03, 2012 10:04:35 AM ModLoader setupProperties
 FINER: computerBlockID set to 207
-Jul 03, 2012 12:31:39 AM ModLoader setupProperties
+Jul 03, 2012 10:04:35 AM ModLoader setupProperties
 FINER: diskDriveBlockID set to 208
-Jul 03, 2012 12:31:39 AM ModLoader setupProperties
+Jul 03, 2012 10:04:35 AM ModLoader setupProperties
 FINER: diskItemID set to 4000
-Jul 03, 2012 12:31:39 AM ModLoader setupProperties
+Jul 03, 2012 10:04:35 AM ModLoader setupProperties
 FINER: enableAPI_http set to 1
-Jul 03, 2012 12:31:39 AM ModLoader setupProperties
+Jul 03, 2012 10:04:35 AM ModLoader setupProperties
 FINER: terminal_width set to 50
-Jul 03, 2012 12:31:39 AM ModLoader setupProperties
+Jul 03, 2012 10:04:35 AM ModLoader setupProperties
 FINER: terminal_height set to 18
-Jul 03, 2012 12:31:39 AM ModLoader setupProperties
+Jul 03, 2012 10:04:35 AM ModLoader setupProperties
 FINER: terminal_textColour_r set to 255
-Jul 03, 2012 12:31:39 AM ModLoader setupProperties
+Jul 03, 2012 10:04:35 AM ModLoader setupProperties
 FINER: terminal_textColour_g set to 255
-Jul 03, 2012 12:31:39 AM ModLoader setupProperties
+Jul 03, 2012 10:04:35 AM ModLoader setupProperties
 FINER: terminal_textColour_b set to 255
-Jul 03, 2012 12:31:39 AM ModLoader setupProperties
+Jul 03, 2012 10:04:35 AM ModLoader setupProperties
 FINER: modem_range set to 64
-Jul 03, 2012 12:31:39 AM ModLoader setupProperties
+Jul 03, 2012 10:04:35 AM ModLoader setupProperties
 FINER: modem_rangeDuringStorm set to 16
-Jul 03, 2012 12:31:39 AM ModLoader addMod
+Jul 03, 2012 10:04:35 AM ModLoader addMod
 FINE: Mod Initialized: "mod_ComputerCraft 1.33" from mod_ComputerCraft.class
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\console
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Directory found.
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\EnderStorage-Client 1.1.1.zip
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:39 AM ModLoader addMod
+Jul 03, 2012 10:04:35 AM ModLoader addMod
 FINE: Mod Initialized: "mod_EnderStorage 1.1.1" from mod_EnderStorage.class
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\forestry-client-A-1.4.6.2_bc2.2.jar
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:39 AM ModLoader addMod
+Jul 03, 2012 10:04:35 AM ModLoader addMod
 FINE: Mod Initialized: "mod_Forestry 1.4.6.2c" from mod_Forestry.class
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\IC2NuclearControl_client_v1.1.6.zip
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:39 AM ModLoader addMod
+Jul 03, 2012 10:04:35 AM ModLoader addMod
 FINE: Mod Initialized: "mod_IC2NuclearControl v1.1.6" from mod_IC2NuclearControl.class
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\industrialcraft-2-client_1.95b.jar
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:39 AM ModLoader addMod
+Jul 03, 2012 10:04:35 AM ModLoader addMod
 FINE: Mod Initialized: "mod_IC2 v1.95" from mod_IC2.class
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\InvTweaks-1.41b-1.2.4.zip
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:39 AM ModLoader addMod
+Jul 03, 2012 10:04:35 AM ModLoader addMod
 FINE: Mod Initialized: "mod_InvTweaks 1.41b (1.2.4)" from mod_InvTweaks.class
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\Minecraft_Console_1.2.zip
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:39 AM ModLoader addMod
+Jul 03, 2012 10:04:35 AM ModLoader addMod
 FINE: Mod Initialized: "mod_Console 1.2" from mod_Console.class
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\mod_compactsolars-client-2.2.0.5.zip
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:39 AM ModLoader addMod
+Jul 03, 2012 10:04:35 AM ModLoader addMod
 FINE: Mod Initialized: "mod_CompactSolars 2.2" from mod_CompactSolars.class
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\mod_ironchests-client-3.3.1.21.zip
-Jul 03, 2012 12:31:39 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:40 AM ModLoader addMod
+Jul 03, 2012 10:04:35 AM ModLoader addMod
 FINE: Mod Initialized: "mod_IronChest 3.3" from mod_IronChest.class
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\mod_TreeFellerClient_v1.3.zip
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:40 AM ModLoader addMod
+Jul 03, 2012 10:04:35 AM ModLoader addMod
 FINE: Mod Initialized: "mod_TreeFeller 1.3" from mod_TreeFeller.class
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\MorePaintingsXtremeEdition-1.2.5-FML.zip
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:40 AM ModLoader addMod
+Jul 03, 2012 10:04:35 AM ModLoader addMod
 FINE: Mod Initialized: "mod_MorePaintings 1.2.5 Xtreme FML" from mod_MorePaintings.class
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\NEI_RailCraftPlugin 1.2.2.1.zip
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\NEI_RedPowerPlugin 1.2.2.3.zip
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\Railcraft_Client_5.2.4.zip
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:40 AM ModLoader addMod
+Jul 03, 2012 10:04:35 AM ModLoader addMod
 FINE: Mod Initialized: "mod_Railcraft 5.2.4" from mod_Railcraft.class
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\RedPowerControl-2.0pr5b2.zip
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:40 AM ModLoader addMod
+Jul 03, 2012 10:04:35 AM ModLoader addMod
 FINE: Mod Initialized: "mod_RedPowerControl 2.0pr5b2" from mod_RedPowerControl.class
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\RedPowerCore-2.0pr5b2.zip
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:40 AM ModLoader addMod
+Jul 03, 2012 10:04:35 AM ModLoader addMod
 FINE: Mod Initialized: "mod_RedPowerCore 2.0pr5b2" from mod_RedPowerCore.class
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\RedPowerLighting-2.0pr5b2.zip
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:35 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:40 AM ModLoader addMod
+Jul 03, 2012 10:04:35 AM ModLoader addMod
 FINE: Mod Initialized: "mod_RedPowerLighting 2.0pr5b2" from mod_RedPowerLighting.class
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:36 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\RedPowerLogic-2.0pr5b2.zip
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:36 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:40 AM ModLoader addMod
+Jul 03, 2012 10:04:36 AM ModLoader addMod
 FINE: Mod Initialized: "mod_RedPowerLogic 2.0pr5b2" from mod_RedPowerLogic.class
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:36 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\RedPowerMachine-2.0pr5b2.zip
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:36 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:40 AM ModLoader addMod
+Jul 03, 2012 10:04:36 AM ModLoader addMod
 FINE: Mod Initialized: "mod_RedPowerMachine 2.0pr5b2" from mod_RedPowerMachine.class
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:36 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\RedPowerWiring-2.0pr5b2.zip
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:36 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:40 AM ModLoader addMod
+Jul 03, 2012 10:04:36 AM ModLoader addMod
 FINE: Mod Initialized: "mod_RedPowerWiring 2.0pr5b2" from mod_RedPowerWiring.class
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:36 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\RedPowerWorld-2.0pr5b2.zip
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:36 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:40 AM ModLoader addMod
+Jul 03, 2012 10:04:36 AM ModLoader addMod
 FINE: Mod Initialized: "mod_RedPowerWorld 2.0pr5b2" from mod_RedPowerWorld.class
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:36 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\rei_minimap
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:36 AM ModLoader readFromModFolder
 FINER: Directory found.
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:36 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\SeedManager-2.0.zip
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:36 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:40 AM ModLoader addMod
+Jul 03, 2012 10:04:36 AM ModLoader addMod
 FINE: Mod Initialized: "mod_SeedManager v2.0" from mod_SeedManager.class
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:36 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\TransformersClient v1.2.zip
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:36 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:40 AM ModLoader addMod
+Jul 03, 2012 10:04:36 AM ModLoader addMod
 FINE: Mod Initialized: "mod_Transformers v1.2" from mod_Transformers.class
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:36 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\weaponmod
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:36 AM ModLoader readFromModFolder
 FINER: Directory found.
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:36 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\WeaponMod.zip
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:36 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:40 AM WM_Properties readProperties
+Jul 03, 2012 10:04:36 AM WM_Properties readProperties
 INFO: [WeaponMod] Properties file read succesfully!
-Jul 03, 2012 12:31:40 AM ModLoader addMod
+Jul 03, 2012 10:04:36 AM ModLoader addMod
 FINE: Mod Initialized: "Balkon's WeaponMod 1.2.5 v8.6.0" from mod_WeaponMod.class
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:36 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\WR-CBE Addons-Client 1.2.1.zip
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:36 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:40 AM ModLoader addMod
+Jul 03, 2012 10:04:36 AM ModLoader addMod
 FINE: Mod Initialized: "mod_WirelessRedstoneAddons 1.2.1" from mod_WirelessRedstoneAddons.class
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:36 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\WR-CBE Core-Client 1.2.1.zip
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:36 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:40 AM ModLoader addMod
+Jul 03, 2012 10:04:36 AM ModLoader addMod
 FINE: Mod Initialized: "mod_WirelessRedstoneCore 1.2.1" from mod_WirelessRedstoneCore.class
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:36 AM ModLoader readFromModFolder
 FINER: Adding mods from C:\Users\User\Documents\GitHub\MagdyClient\MagdyCraft\instances\Multi\.minecraft\mods\WR-CBE RedPower-Client 1.2.1.zip
-Jul 03, 2012 12:31:40 AM ModLoader readFromModFolder
+Jul 03, 2012 10:04:36 AM ModLoader readFromModFolder
 FINER: Zip found.
-Jul 03, 2012 12:31:40 AM ModLoader addMod
+Jul 03, 2012 10:04:36 AM ModLoader addMod
 FINE: Mod Initialized: "mod_WirelessRedstoneRedPower 1.2.1" from mod_WirelessRedstoneRedPower.class
-Jul 03, 2012 12:31:40 AM ModLoader init
+Jul 03, 2012 10:04:36 AM ModLoader init
 FINE: Mod Loaded: "mod_CodeChickenCore 0.5.3"
-Jul 03, 2012 12:31:40 AM ModLoader init
+Jul 03, 2012 10:04:36 AM ModLoader init
 FINE: Mod Loaded: "mod_3DItems_Forge 1.2"
-Jul 03, 2012 12:31:40 AM ModLoader init
+Jul 03, 2012 10:04:36 AM ModLoader init
 FINE: Mod Loaded: "mod_4096Fix v4 for 1.2.5"
-Jul 03, 2012 12:31:40 AM ModLoader init
+Jul 03, 2012 10:04:36 AM ModLoader init
 FINE: Mod Loaded: "mod_MinecraftForge 3.1.3.105"
-Jul 03, 2012 12:31:40 AM ModLoader init
+Jul 03, 2012 10:04:36 AM ModLoader init
 FINE: Mod Loaded: "mod_NotEnoughItems 1.2.2.4"
-Jul 03, 2012 12:31:40 AM ModLoader init
+Jul 03, 2012 10:04:36 AM ModLoader init
 FINE: Mod Loaded: "mod_JammyFurniture 3.6"
-Jul 03, 2012 12:31:40 AM ModLoader init
+Jul 03, 2012 10:04:36 AM ModLoader init
 FINE: Mod Loaded: "mod_ReiMinimap v3.2_04 [1.2.5]"
-Jul 03, 2012 12:31:40 AM ModLoader init
+Jul 03, 2012 10:04:36 AM ModLoader init
 FINE: Mod Loaded: "mod_AdvancedHud 4.3"
-Jul 03, 2012 12:31:40 AM ModLoader init
+Jul 03, 2012 10:04:36 AM ModLoader init
 FINE: Mod Loaded: "mod_AS_BattleTowers 1.1.0 @ MC 1.2.5"
-Jul 03, 2012 12:31:40 AM ModLoader init
+Jul 03, 2012 10:04:36 AM ModLoader init
 FINE: Mod Loaded: "mod_AdditionalBuildcraftObjects 0.9.1-97 (MC 1.2.5, BC 2.2.14)"
-Jul 03, 2012 12:31:40 AM ModLoader init
+Jul 03, 2012 10:04:36 AM ModLoader init
 FINE: Mod Loaded: "mod_BuildCraftCore 2.2.14"
-Jul 03, 2012 12:31:40 AM ModLoader init
+Jul 03, 2012 10:04:36 AM ModLoader init
 FINE: Mod Loaded: "mod_BuildCraftBuilders 2.2.14"
-Jul 03, 2012 12:31:40 AM ModLoader init
+Jul 03, 2012 10:04:36 AM ModLoader init
 FINE: Mod Loaded: "mod_BuildCraftEnergy 2.2.14"
-Jul 03, 2012 12:31:40 AM ModLoader init
+Jul 03, 2012 10:04:36 AM ModLoader init
 FINE: Mod Loaded: "mod_BuildCraftFactory 2.2.14"
-Jul 03, 2012 12:31:40 AM ModLoader init
+Jul 03, 2012 10:04:36 AM ModLoader init
 FINE: Mod Loaded: "mod_BuildCraftTransport 2.2.14"
-Jul 03, 2012 12:31:40 AM ModLoader init
+Jul 03, 2012 10:04:36 AM ModLoader init
 FINE: Mod Loaded: "mod_AdditionalPipes 2.1.3 (Minecraft 1.2.5, Buildcraft 2.2.14, Forge 3.0.1.75)"
-Jul 03, 2012 12:31:40 AM ModLoader init
+Jul 03, 2012 10:04:36 AM ModLoader init
 FINE: Mod Loaded: "mod_ComputerCraft 1.33"
-Jul 03, 2012 12:31:40 AM ModLoader init
+Jul 03, 2012 10:04:36 AM ModLoader init
 FINE: Mod Loaded: "mod_CCTurtle 1.33"
-Jul 03, 2012 12:31:40 AM ModLoader init
+Jul 03, 2012 10:04:36 AM ModLoader init
 FINE: Mod Loaded: "mod_EnderStorage 1.1.1"
-Jul 03, 2012 12:31:40 AM forestry.core.config.Config load
+Jul 03, 2012 10:04:36 AM forestry.core.config.Config load
 FINER: Breeding mode for bees set to NORMAL
-Jul 03, 2012 12:31:40 AM forestry.plugins.PluginManager addPlugin
+Jul 03, 2012 10:04:36 AM forestry.plugins.PluginManager addPlugin
 FINE: Found plugin for BuildCraft 2
-Jul 03, 2012 12:31:40 AM forestry.plugins.PluginManager addPlugin
+Jul 03, 2012 10:04:36 AM forestry.plugins.PluginManager addPlugin
 FINE: Found plugin for Native Apiculture
-Jul 03, 2012 12:31:40 AM forestry.plugins.PluginManager addPlugin
+Jul 03, 2012 10:04:36 AM forestry.plugins.PluginManager addPlugin
 FINE: Found plugin for Native Arboriculture
-Jul 03, 2012 12:31:40 AM forestry.plugins.PluginManager addPlugin
+Jul 03, 2012 10:04:36 AM forestry.plugins.PluginManager addPlugin
 FINE: Found plugin for Core
-Jul 03, 2012 12:31:40 AM forestry.plugins.PluginManager addPlugin
+Jul 03, 2012 10:04:36 AM forestry.plugins.PluginManager addPlugin
 FINE: Found plugin for Native Cultivation
-Jul 03, 2012 12:31:40 AM forestry.plugins.PluginManager addPlugin
+Jul 03, 2012 10:04:36 AM forestry.plugins.PluginManager addPlugin
 FINE: Found plugin for Native Energy
-Jul 03, 2012 12:31:40 AM forestry.plugins.PluginManager addPlugin
+Jul 03, 2012 10:04:36 AM forestry.plugins.PluginManager addPlugin
 FINE: Found plugin for Native Factory
-Jul 03, 2012 12:31:40 AM forestry.plugins.PluginManager addPlugin
+Jul 03, 2012 10:04:36 AM forestry.plugins.PluginManager addPlugin
 FINE: Found plugin for Native Food
-Jul 03, 2012 12:31:40 AM forestry.plugins.PluginManager addPlugin
+Jul 03, 2012 10:04:36 AM forestry.plugins.PluginManager addPlugin
 FINE: Found plugin for Native Storage
-Jul 03, 2012 12:31:40 AM forestry.plugins.PluginManager addPlugin
+Jul 03, 2012 10:04:36 AM forestry.plugins.PluginManager addPlugin
 FINE: Found plugin for IndustrialCraft2
-Jul 03, 2012 12:31:40 AM forestry.plugins.PluginManager addPlugin
+Jul 03, 2012 10:04:36 AM forestry.plugins.PluginManager addPlugin
 FINE: Found plugin for TerraFirmaCraft
-Jul 03, 2012 12:31:40 AM forestry.plugins.PluginManager addPlugin
+Jul 03, 2012 10:04:36 AM forestry.plugins.PluginManager addPlugin
 FINE: Found plugin for TwilightForest
-Jul 03, 2012 12:31:40 AM forestry.core.ForestryCore load
+Jul 03, 2012 10:04:36 AM forestry.core.ForestryCore load
 FINE: Skipped plugin class forestry.plugins.PluginForestryArboriculture because preconditions were not met.
-Jul 03, 2012 12:31:40 AM forestry.core.ForestryCore load
+Jul 03, 2012 10:04:36 AM forestry.core.ForestryCore load
 FINE: Skipped plugin class forestry.plugins.PluginTFCraft because preconditions were not met.
-Jul 03, 2012 12:31:40 AM forestry.core.ForestryCore load
+Jul 03, 2012 10:04:36 AM forestry.core.ForestryCore load
 FINE: Skipped plugin class forestry.plugins.PluginTwilightForest because preconditions were not met.
-Jul 03, 2012 12:31:41 AM ModLoader init
+Jul 03, 2012 10:04:36 AM ModLoader init
 FINE: Mod Loaded: "mod_Forestry 1.4.6.2c"
-Jul 03, 2012 12:31:41 AM ModLoader init
+Jul 03, 2012 10:04:36 AM ModLoader init
 FINE: Mod Loaded: "mod_IC2NuclearControl v1.1.6"
-Jul 03, 2012 12:31:41 AM ModLoader init
+Jul 03, 2012 10:04:37 AM ModLoader init
 FINE: Mod Loaded: "mod_IC2 v1.95"
-Jul 03, 2012 12:31:41 AM ModLoader init
+Jul 03, 2012 10:04:37 AM ModLoader init
 FINE: Mod Loaded: "mod_Transformers v1.2"
-Jul 03, 2012 12:31:41 AM ModLoader init
+Jul 03, 2012 10:04:37 AM ModLoader init
 FINE: Mod Loaded: "mod_CiderBoats 1.2.5"
-Jul 03, 2012 12:31:41 AM ModLoader init
+Jul 03, 2012 10:04:37 AM ModLoader init
 FINE: Mod Loaded: "mod_IC2AdvancedMachines v4.0"
-Jul 03, 2012 12:31:41 AM ModLoader init
+Jul 03, 2012 10:04:37 AM ModLoader init
 FINE: Mod Loaded: "mod_InvTweaks 1.41b (1.2.4)"
-Jul 03, 2012 12:31:41 AM ModLoader init
+Jul 03, 2012 10:04:37 AM ModLoader init
 FINE: Mod Loaded: "mod_Console 1.2"
-Jul 03, 2012 12:31:41 AM ModLoader init
+Jul 03, 2012 10:04:37 AM ModLoader init
 FINE: Mod Loaded: "mod_CompactSolars 2.2"
-Jul 03, 2012 12:31:41 AM ModLoader init
+Jul 03, 2012 10:04:37 AM ModLoader init
 FINE: Mod Loaded: "mod_IronChest 3.3"
-Jul 03, 2012 12:31:41 AM ModLoader init
+Jul 03, 2012 10:04:37 AM ModLoader init
 FINE: Mod Loaded: "mod_TreeFeller 1.3"
-Jul 03, 2012 12:31:41 AM ModLoader init
+Jul 03, 2012 10:04:37 AM ModLoader init
 FINE: Mod Loaded: "mod_MorePaintings 1.2.5 Xtreme FML"
-Jul 03, 2012 12:31:41 AM railcraft.common.orehandlers.CoreOreHandler registerOre
+Jul 03, 2012 10:04:37 AM railcraft.common.orehandlers.CoreOreHandler registerOre
 FINER: Railcraft Core Module: Bronze detected, adding alternative minecart recipe: ingotBronze, id=5,261
-Jul 03, 2012 12:31:41 AM railcraft.common.orehandlers.CoreOreHandler registerOre
+Jul 03, 2012 10:04:37 AM railcraft.common.orehandlers.CoreOreHandler registerOre
 FINER: Railcraft Core Module: Bronze detected, adding alternative minecart recipe: ingotBronze, id=30,246
-Jul 03, 2012 12:31:41 AM railcraft.common.orehandlers.BoreOreHandler registerOre
+Jul 03, 2012 10:04:37 AM railcraft.common.orehandlers.BoreOreHandler registerOre
 FINER: Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: oreCopper, id=249 meta=0
-Jul 03, 2012 12:31:41 AM railcraft.common.orehandlers.BoreOreHandler registerOre
+Jul 03, 2012 10:04:37 AM railcraft.common.orehandlers.BoreOreHandler registerOre
 FINER: Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: oreTin, id=248 meta=0
-Jul 03, 2012 12:31:41 AM railcraft.common.orehandlers.BoreOreHandler registerOre
+Jul 03, 2012 10:04:37 AM railcraft.common.orehandlers.BoreOreHandler registerOre
 FINER: Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: oreUranium, id=247 meta=0
-Jul 03, 2012 12:31:41 AM railcraft.common.orehandlers.BoreOreHandler registerOre
+Jul 03, 2012 10:04:37 AM railcraft.common.orehandlers.BoreOreHandler registerOre
 FINER: Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: woodRubber, id=243 meta=0
-Jul 03, 2012 12:31:41 AM railcraft.common.orehandlers.IC2OreHandler registerOre
+Jul 03, 2012 10:04:37 AM railcraft.common.orehandlers.IC2OreHandler registerOre
 FINER: Railcraft IC2 Module: Tin detected, adding Energy Detector recipe: id=5,260
-Jul 03, 2012 12:31:41 AM railcraft.common.orehandlers.IC2OreHandler registerOre
+Jul 03, 2012 10:04:37 AM railcraft.common.orehandlers.IC2OreHandler registerOre
 FINER: Railcraft IC2 Module: Tin detected, adding Energy Detector recipe: id=30,247
-Jul 03, 2012 12:31:41 AM railcraft.common.orehandlers.FactoryOreHandler registerOre
+Jul 03, 2012 10:04:37 AM railcraft.common.orehandlers.FactoryOreHandler registerOre
 FINER: Railcraft Factory Module: Bronze detected, adding alternative recipes: ingotBronze, id=5,261
-Jul 03, 2012 12:31:41 AM railcraft.common.orehandlers.FactoryOreHandler registerOre
+Jul 03, 2012 10:04:37 AM railcraft.common.orehandlers.FactoryOreHandler registerOre
 FINER: Railcraft Factory Module: Bronze detected, adding alternative recipes: ingotBronze, id=30,246
-Jul 03, 2012 12:31:41 AM railcraft.common.orehandlers.FactoryOreHandler registerOre
+Jul 03, 2012 10:04:37 AM railcraft.common.orehandlers.FactoryOreHandler registerOre
 FINER: Railcraft Factory Module: Refined Iron detected, adding alternative recipes: ingotRefinedIron, id=30,249
-Jul 03, 2012 12:31:41 AM ModLoader init
+Jul 03, 2012 10:04:37 AM ModLoader init
 FINE: Mod Loaded: "mod_Railcraft 5.2.4"
-Jul 03, 2012 12:31:41 AM ModLoader init
+Jul 03, 2012 10:04:37 AM ModLoader init
 FINE: Mod Loaded: "mod_RedPowerControl 2.0pr5b2"
-Jul 03, 2012 12:31:41 AM ModLoader init
+Jul 03, 2012 10:04:37 AM ModLoader init
 FINE: Mod Loaded: "mod_RedPowerCore 2.0pr5b2"
-Jul 03, 2012 12:31:41 AM ModLoader init
+Jul 03, 2012 10:04:37 AM ModLoader init
 FINE: Mod Loaded: "mod_RedPowerLighting 2.0pr5b2"
-Jul 03, 2012 12:31:41 AM ModLoader init
+Jul 03, 2012 10:04:37 AM ModLoader init
 FINE: Mod Loaded: "mod_RedPowerLogic 2.0pr5b2"
-Jul 03, 2012 12:31:41 AM ModLoader init
+Jul 03, 2012 10:04:37 AM ModLoader init
 FINE: Mod Loaded: "mod_RedPowerMachine 2.0pr5b2"
-Jul 03, 2012 12:31:41 AM ModLoader init
+Jul 03, 2012 10:04:37 AM ModLoader init
 FINE: Mod Loaded: "mod_ccSensors MC1.2.5 Build017pr1"
-Jul 03, 2012 12:31:41 AM ModLoader init
+Jul 03, 2012 10:04:37 AM ModLoader init
 FINE: Mod Loaded: "mod_RedPowerWiring 2.0pr5b2"
-Jul 03, 2012 12:31:41 AM ModLoader init
+Jul 03, 2012 10:04:37 AM ModLoader init
 FINE: Mod Loaded: "mod_RedPowerWorld 2.0pr5b2"
-Jul 03, 2012 12:31:41 AM ModLoader init
+Jul 03, 2012 10:04:37 AM ModLoader init
 FINE: Mod Loaded: "Balkon's WeaponMod 1.2.5 v8.6.0"
-Jul 03, 2012 12:31:42 AM ModLoader init
+Jul 03, 2012 10:04:38 AM ModLoader init
 FINE: Mod Loaded: "mod_WirelessRedstoneCore 1.2.1"
-Jul 03, 2012 12:31:42 AM railcraft.common.orehandlers.IC2OreHandler registerOre
+Jul 03, 2012 10:04:38 AM railcraft.common.orehandlers.IC2OreHandler registerOre
 FINER: Railcraft IC2 Module: Tin detected, adding Energy Detector recipe: id=1,257
-Jul 03, 2012 12:31:42 AM BuildCraftCore initialize
+Jul 03, 2012 10:04:38 AM BuildCraftCore initialize
 FINE: Starting BuildCraft 2.2.14
-Jul 03, 2012 12:31:42 AM BuildCraftCore initialize
+Jul 03, 2012 10:04:38 AM BuildCraftCore initialize
 FINE: Copyright (c) SpaceToad, 2011
-Jul 03, 2012 12:31:42 AM BuildCraftCore initialize
+Jul 03, 2012 10:04:38 AM BuildCraftCore initialize
 FINE: http://www.mod-buildcraft.com
-Jul 03, 2012 12:31:42 AM ModLoader init
+Jul 03, 2012 10:04:38 AM ModLoader init
 FINE: Mod Loaded: "mod_WirelessRedstoneRedPower 1.2.1"
-Jul 03, 2012 12:31:42 AM ModLoader init
+Jul 03, 2012 10:04:38 AM ModLoader init
 FINE: Mod Loaded: "mod_WirelessRedstoneAddons 1.2.1"
-Jul 03, 2012 12:31:42 AM ModLoader init
+Jul 03, 2012 10:04:38 AM ModLoader init
 FINE: Mod Loaded: "mod_SeedManager v2.0"
-Jul 03, 2012 12:31:42 AM ModLoader setupProperties
+Jul 03, 2012 10:04:38 AM ModLoader setupProperties
 FINER: blockABOPipeID set to 200
-Jul 03, 2012 12:31:42 AM ModLoader setupProperties
+Jul 03, 2012 10:04:38 AM ModLoader setupProperties
 FINER: pipeLiquidsValveID set to 10200
-Jul 03, 2012 12:31:42 AM ModLoader setupProperties
+Jul 03, 2012 10:04:38 AM ModLoader setupProperties
 FINER: pipeLiquidsGoldenIronID set to 10201
-Jul 03, 2012 12:31:42 AM ModLoader setupProperties
+Jul 03, 2012 10:04:38 AM ModLoader setupProperties
 FINER: pipeLiquidsBalanceID set to 10203
-Jul 03, 2012 12:31:42 AM ModLoader setupProperties
+Jul 03, 2012 10:04:38 AM ModLoader setupProperties
 FINER: pipeLiquidsDiamondID set to 10204
-Jul 03, 2012 12:31:42 AM ModLoader setupProperties
+Jul 03, 2012 10:04:38 AM ModLoader setupProperties
 FINER: pipeItemsRoundRobinID set to 10300
-Jul 03, 2012 12:31:42 AM ModLoader setupProperties
+Jul 03, 2012 10:04:38 AM ModLoader setupProperties
 FINER: pipeItemsCompactorID set to 10301
-Jul 03, 2012 12:31:42 AM ModLoader setupProperties
+Jul 03, 2012 10:04:38 AM ModLoader setupProperties
 FINER: pipeItemsInsertionID set to 10302
-Jul 03, 2012 12:31:42 AM ModLoader setupProperties
+Jul 03, 2012 10:04:38 AM ModLoader setupProperties
 FINER: pipeItemsExtractionID set to 10303
-Jul 03, 2012 12:31:42 AM ModLoader setupProperties
+Jul 03, 2012 10:04:38 AM ModLoader setupProperties
 FINER: pipeItemsBounceID set to 10304
-Jul 03, 2012 12:31:42 AM ModLoader setupProperties
+Jul 03, 2012 10:04:38 AM ModLoader setupProperties
 FINER: pipeItemsCrossoverID set to 10305
-Jul 03, 2012 12:31:42 AM ModLoader setupProperties
+Jul 03, 2012 10:04:38 AM ModLoader setupProperties
 FINER: pipePowerSwitchID set to 10400
-Jul 03, 2012 12:31:42 AM forestry.core.ForestryCore modsLoaded
+Jul 03, 2012 10:04:38 AM forestry.core.ForestryCore modsLoaded
 FINE: Using buildcraft.energy.PneumaticPowerFramework as framework.
-Jul 03, 2012 12:31:42 AM forestry.core.config.OreHandler initApatiteOre
+Jul 03, 2012 10:04:38 AM forestry.core.config.OreHandler initApatiteOre
 FINER: Registering ore apatite.
-Jul 03, 2012 12:31:42 AM railcraft.common.orehandlers.BoreOreHandler registerOre
+Jul 03, 2012 10:04:38 AM railcraft.common.orehandlers.BoreOreHandler registerOre
 FINER: Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: oreApatite, id=198 meta=0
-Jul 03, 2012 12:31:42 AM railcraft.common.orehandlers.BoreOreHandler registerOre
+Jul 03, 2012 10:04:38 AM railcraft.common.orehandlers.BoreOreHandler registerOre
 FINER: Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: oreCopper, id=198 meta=1
-Jul 03, 2012 12:31:42 AM railcraft.common.orehandlers.BoreOreHandler registerOre
+Jul 03, 2012 10:04:38 AM railcraft.common.orehandlers.BoreOreHandler registerOre
 FINER: Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: oreTin, id=198 meta=2
-Jul 03, 2012 12:31:43 AM Transformers.TransformersCore modsLoaded
+Jul 03, 2012 10:04:39 AM Transformers.TransformersCore modsLoaded
 FINE: Loading Transformers for IC2 v1.95 & BuildCraft 2.2.14
-Jul 03, 2012 12:31:43 AM ModLoader addOverride
+Jul 03, 2012 10:04:39 AM ModLoader addOverride
 FINER: addOverride(/gui/items.png,/ic2/sprites/refinedIronDust.png,38). 84 left.
-Jul 03, 2012 12:31:43 AM mod_CompactSolars modsLoaded
+Jul 03, 2012 10:04:39 AM mod_CompactSolars modsLoaded
 INFO: Compact Solar (2.2) rev 0 build 5 loaded successfully.
-Jul 03, 2012 12:31:43 AM mod_IronChest modsLoaded
+Jul 03, 2012 10:04:39 AM mod_IronChest modsLoaded
 FINE: mod_IronChest unable to load Equivalent Exchange integration
-Jul 03, 2012 12:31:43 AM railcraft.common.orehandlers.BoreOreHandler registerOre
+Jul 03, 2012 10:04:39 AM railcraft.common.orehandlers.BoreOreHandler registerOre
 FINER: Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: oreSilver, id=140 meta=3
-Jul 03, 2012 12:31:43 AM railcraft.common.orehandlers.BoreOreHandler registerOre
+Jul 03, 2012 10:04:39 AM railcraft.common.orehandlers.BoreOreHandler registerOre
 FINER: Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: oreTin, id=140 meta=4
-Jul 03, 2012 12:31:43 AM railcraft.common.orehandlers.BoreOreHandler registerOre
+Jul 03, 2012 10:04:39 AM railcraft.common.orehandlers.BoreOreHandler registerOre
 FINER: Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: oreCopper, id=140 meta=5
-Jul 03, 2012 12:31:43 AM railcraft.common.orehandlers.BoreOreHandler registerOre
+Jul 03, 2012 10:04:39 AM railcraft.common.orehandlers.BoreOreHandler registerOre
 FINER: Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: woodRubber, id=143 meta=0
-Jul 03, 2012 12:31:43 AM ModLoader addAllRenderers
+Jul 03, 2012 10:04:39 AM ModLoader addAllRenderers
 FINE: Initialized
