@@ -1,5 +1,5 @@
 # Configuration file
-# Generated on 20/07/12 21:02
+# Generated on 26/07/12 10:51
 
 ####################
 # block 
@@ -8,6 +8,7 @@
 block {
    block.bookstand.id=130
    block.crystal.id=133
+   block.linkmodifier.id=137
    block.linkportal.id=135
    block.receptacle.id=136
    block.starfissure.id=134
@@ -29,7 +30,10 @@ entity {
 ####################
 
 general {
+   options.ageid.minimum=50
+   options.decay=true
    options.instability=true
+   options.platform.blockid=1
    options.renderlabels=true
 }
 
@@ -49,6 +53,7 @@ item {
 ####################
 
 packet {
+   packet.activate.id=137
    packet.agedata.id=135
    packet.falling.id=133
    packet.openwindow.id=134
