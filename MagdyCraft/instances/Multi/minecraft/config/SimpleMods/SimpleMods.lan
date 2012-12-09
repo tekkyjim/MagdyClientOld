@@ -1,0 +1,53 @@
+# Configuration file
+# Generated on 09/12/12 13:00
+
+####################
+# simplemods commands
+####################
+
+"simplemods commands" {
+    # Response to the Ping Command
+    S:PingMsg=Pong!
+    S:tpaTimeout=TPA timed out
+    S:wbMessage=World ends here
+}
+
+
+####################
+# simplemods flags
+####################
+
+"simplemods flags" {
+    S:godmode=This flag makes all players invincible in this region. Overrules pvp.
+    S:nochest=This tag makes opening chest impossible
+    S:nochestmessage=You are not allowed to open chests in this region
+    S:noexplosion=This flag turns off explosions in this region. Mod needs to be a code mod for this!
+    S:nofalldamage=;-)
+    S:nofirespead=This flag turns off firespread in this region. Mod needs to be a code mod for this!
+    S:nogrowth=This flag turns off treegrowth in this region. Mod needs to be a code mod for this!
+    S:noplayerblock=This flag makes placing and removing blocks impossible, exept for the members.
+    S:noplayerblockmessage=flag noplayerblock cancelt the event.
+    S:noplayeritem=This flag makes use of items impossible (food too!), exept for the members.
+    S:nopvp=This flag makes pvp impossible in this region.
+}
+
+
+####################
+# simplemods wand
+####################
+
+"simplemods wand" {
+    S:wandName=Wand
+}
+
+
+####################
+# simplemods welcomemessages
+####################
+
+"simplemods welcomemessages" {
+    # The first message, which tells the user,that the server uses the SimpleMods system
+    S:welcomeMessageCore=You have been given the rank of Guest.
+}
+
+

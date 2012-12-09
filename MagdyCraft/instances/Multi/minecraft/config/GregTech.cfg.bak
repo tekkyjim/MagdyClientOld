@@ -1,0 +1,470 @@
+# Configuration file
+# Generated on 02/12/12 16:39
+
+####################
+# addonrecipes
+####################
+
+addonrecipes {
+    B:AESU=true
+    B:AutomationMachines=true
+    B:ChargOMat=true
+    B:CloakingDevice=true
+    B:CropHarvestor=true
+    B:Destructopack=true
+    B:ElectricAutocrafter=true
+    B:Fusionreactor=true
+    B:Helium2Coolantcell=true
+    B:IDSU=true
+    B:IndustrialGrinder=true
+    B:IridiumNeutronReflector=true
+    B:Iridiumblock=true
+    B:ItemClearer=true
+    B:JackHammer=true
+    B:LESU=true
+    B:Lapotronpack=true
+    B:LightHelmet=true
+    B:Lightningrod=true
+    B:Lithiumbattery=true
+    B:Lithiumpack=true
+    B:Matterfabricator=true
+    B:NaKCoolantcell=true
+    B:Playerdetector=true
+    B:Plutonium=true
+    B:Quantumchest=true
+    B:RockBreaker=true
+    B:Rockcutter=true
+    B:Scrapboxinator=true
+    B:Sonictron=true
+    B:Superconductorwire=true
+    B:TeslaStaff=true
+    B:Thorium=true
+    B:UUM_Assembler=true
+}
+
+
+####################
+# block
+####################
+
+block {
+    I:Block=700
+    I:LightSource=701
+    I:Machine=702
+    I:Ore=703
+}
+
+
+####################
+# centrifuge
+####################
+
+centrifuge {
+    B:Blazepowder=true
+    B:Clay=true
+    B:Dirt=true
+    B:Endstone=true
+    B:Flint=true
+    B:Glowstone=true
+    B:Lapis=true
+    B:Lava=true
+    B:Mushrooms=true
+    B:Netherrack=true
+    B:Redstone=true
+    B:Resin=true
+    B:Rubberwood=true
+    B:Sand=true
+    B:Soulsand=true
+    B:Sugar=true
+    B:Uranium=true
+}
+
+
+####################
+# cheaperrecipes
+####################
+
+cheaperrecipes {
+    B:Aluminium2MixedMetal=true
+    B:Helium2Laser=true
+    B:RefinedIronPiston=true
+    B:Ruby2Energycrystal=true
+    B:Sapphire2Lapotron=true
+    B:SilverAdvCircuit=true
+    B:SilverCircuit=true
+    B:Slime2Rubber=true
+    B:Steel2MixedMetalIngots=true
+    B:SteelPiston=true
+    B:TinPincher=true
+    B:Titanium2MixedMetal=true
+}
+
+
+####################
+# circuitry
+####################
+
+circuitry {
+    B:BCChipsets=true
+    B:BCGates=true
+    B:CircuitBoards=true
+    B:ElectronTubes=true
+    B:ForestryCasings=true
+    B:RCCircuits=true
+    B:TEMachines=true
+}
+
+
+####################
+# dungeon
+####################
+
+dungeon {
+    B:DungeonICredits=false
+    B:DungeonLoot=true
+    B:DungeonMusicDiscFix=false
+}
+
+
+####################
+# features
+####################
+
+features {
+    B:ConstantEnergyMachine=true
+    B:DisableStoneInRecycler=false
+    I:MatterFabricationRate=16666666
+    B:MinerListLavaAddtition=true
+    B:Reactorplanner=true
+    B:Seedscanner=true
+    I:UpgradeStacksize=4
+}
+
+
+####################
+# general
+####################
+
+general {
+    B:Animations=true
+    B:Debug=false
+    I:SpecialDebugMode=0
+}
+
+
+####################
+# ic2recipes
+####################
+
+ic2recipes {
+    B:Massfabricator=false
+    B:QSuithelmet=true
+    B:QSuitpants=true
+    B:QSuitplate=true
+    B:QSuitshoes=true
+}
+
+
+####################
+# item
+####################
+
+item {
+    I:CELLS=21002
+    I:COMPONENTS=21003
+    I:CloakingDevice=21038
+    I:DUSTS=21001
+    I:Dataorb=21043
+    I:DebugScanner=21055
+    I:Destructopack=21033
+    I:HandheldSonictron=21032
+    I:Heliumcoolant060k=21034
+    I:Heliumcoolant120k=21035
+    I:Heliumcoolant180k=21036
+    I:IronMortar=21030
+    I:JackHammerDiamond=21042
+    I:JackHammerIron=21039
+    I:JackHammerSteel=21041
+    I:Lamphelmet=21044
+    I:LapotronicEnergycrystal=21037
+    I:Lapotronpack=21045
+    I:LithiumCell=21054
+    I:LithiumbatteryEmpty=21056
+    I:LithiumbatteryFull=21057
+    I:Lithiumpack=21058
+    I:MATERIALS=21000
+    I:Mortar=21031
+    I:NCSensorCard=21016
+    I:NCSensorKit=21017
+    I:NaKcoolant060k=21060
+    I:NaKcoolant120k=21061
+    I:NaKcoolant180k=21062
+    I:Neutronreflector=21040
+    I:Plutonium1=21051
+    I:Plutonium2=21052
+    I:Plutonium4=21053
+    I:Rockcutter=21046
+    I:SMALLDUSTS=21004
+    I:Teslastaff=21047
+    I:Thorium1=21048
+    I:Thorium2=21049
+    I:Thorium4=21050
+}
+
+
+####################
+# quantumsuit
+####################
+
+quantumsuit {
+    B:OverloadQSuitItems=true
+    B:QBootFixWhichBreaksQJump=false
+    B:QChestFireprotection=true
+    B:QChestInvincibility=true
+    B:QHelmetAirRefill=true
+    B:QHelmetHungerRefill=true
+    B:QHelmetLamp=true
+    B:QHelmetPoisonCure=true
+}
+
+
+####################
+# silktouchrecipes
+####################
+
+silktouchrecipes {
+    B:ApatiteOreMaceration=true
+    B:CinnabarOreMaceration=true
+    B:CoalOreMaceration=true
+    B:DiamondOreMaceration=true
+    B:GemOreMaceration=true
+    B:IridiumOreMaceration=true
+    B:LapisOreMaceration=true
+    B:PyriteOreMaceration=true
+    B:RedstoneOreMaceration=true
+    B:SaltpeterOreMaceration=true
+    B:SphaleriteOreMaceration=true
+    B:SulphurOreMaceration=true
+    B:UraniumOreMaceration=true
+}
+
+
+####################
+# storageblockcompression
+####################
+
+storageblockcompression {
+    B:Aluminium=true
+    B:Brass=true
+    B:Bronze=true
+    B:Chrome=true
+    B:Copper=false
+    B:Diamond=true
+    B:Emerald=true
+    B:Glowstone=true
+    B:Gold=true
+    B:Iron=true
+    B:Lapis=true
+    B:Ruby=true
+    B:Sapphire=true
+    B:Silver=true
+    B:Steel=true
+    B:Tin=true
+    B:Titanium=true
+    B:Uranium=true
+}
+
+
+####################
+# storageblockcrafting
+####################
+
+storageblockcrafting {
+    B:Aluminium=false
+    B:Brass=false
+    B:Bronze=false
+    B:Chrome=false
+    B:Copper=true
+    B:Diamond=false
+    B:Emerald=false
+    B:Glowstone=false
+    B:Gold=false
+    B:Iron=false
+    B:Lapis=false
+    B:Ruby=false
+    B:Sapphire=false
+    B:Silver=false
+    B:Steel=false
+    B:Tin=false
+    B:Titanium=false
+    B:Uranium=false
+}
+
+
+####################
+# storageblockmaceration
+####################
+
+storageblockmaceration {
+    B:Aluminium=true
+    B:Brass=true
+    B:Bronze=true
+    B:Chrome=true
+    B:Copper=true
+    B:Diamond=true
+    B:Emerald=true
+    B:Gold=true
+    B:Iron=true
+    B:Lapis=true
+    B:Ruby=true
+    B:Sapphire=true
+    B:Silver=true
+    B:Steel=true
+    B:Tin=true
+    B:Titanium=true
+    B:Uranium=true
+}
+
+
+####################
+# storageblockreversecrafting
+####################
+
+storageblockreversecrafting {
+    B:Aluminium=false
+    B:Brass=false
+    B:Bronze=false
+    B:Chrome=false
+    B:Copper=false
+    B:Diamond=false
+    B:Emerald=false
+    B:Gold=false
+    B:Iron=false
+    B:Lapis=false
+    B:Ruby=false
+    B:Sapphire=false
+    B:Silver=false
+    B:Steel=false
+    B:Tin=false
+    B:Titanium=false
+    B:Uranium=false
+}
+
+
+####################
+# storageblocksmelting
+####################
+
+storageblocksmelting {
+    B:Aluminium=true
+    B:Brass=true
+    B:Bronze=true
+    B:Chrome=true
+    B:Copper=true
+    B:Gold=true
+    B:Iron=true
+    B:Silver=true
+    B:Steel=true
+    B:Tin=true
+    B:Titanium=true
+}
+
+
+####################
+# usefullrecipes
+####################
+
+usefullrecipes {
+    B:BeryliumReflector=true
+    B:Compress2Storageblock=true
+    B:ElectricSteelTools=true
+    B:ExpensiveBCQuarryRecipe=false
+    B:ExpensiveLaser=true
+    B:ExpensiveMaceratorRecipe=false
+    B:ExpensiveNukeRecipe=true
+    B:ExpensiveSolarRecipe=true
+    B:ExpensiveWatermillRecipe=false
+    B:ExpensiveWindRecipe=false
+    B:MMIngotOnlyRollingMachine=true
+    B:Storageblock2Macerator=true
+    I:TincellsPer4Tin=8
+    B:TitaniumDiamondDrill=true
+    B:ToolAndArmorMaceration=true
+    B:WatermillReverseCrafting=true
+}
+
+
+####################
+# uumrecipes
+####################
+
+uumrecipes {
+    B:UUM2Aluminium=true
+    B:UUM2Bauxite=true
+    B:UUM2Blazerods=true
+    B:UUM2Bone=true
+    B:UUM2Cactus=true
+    B:UUM2ChiseledStone=true
+    B:UUM2Clay=true
+    B:UUM2Coal=true
+    B:UUM2Cocoa=true
+    B:UUM2Copper=true
+    B:UUM2Diamonds=true
+    B:UUM2Enderpearl=true
+    B:UUM2Feathers=true
+    B:UUM2Flint=true
+    B:UUM2Gems=true
+    B:UUM2Glass=true
+    B:UUM2Glowstone=true
+    B:UUM2Gold=true
+    B:UUM2Grass=true
+    B:UUM2Gunpowder=true
+    B:UUM2Ink=true
+    B:UUM2Iridium=true
+    B:UUM2Iron=true
+    B:UUM2Lapis=true
+    B:UUM2Lava=true
+    B:UUM2Moss=true
+    B:UUM2Mycelium=true
+    B:UUM2Netherrack=true
+    B:UUM2Obsidian=true
+    B:UUM2Plutonium=true
+    B:UUM2Redstone=true
+    B:UUM2Resin=true
+    B:UUM2Rock=true
+    B:UUM2Sandstone=true
+    B:UUM2Silver=true
+    B:UUM2Snowballs=true
+    B:UUM2Snowblock=true
+    B:UUM2Sugarcane=true
+    B:UUM2Tin=true
+    B:UUM2Titanium=true
+    B:UUM2Vines=true
+    B:UUM2Water=true
+    B:UUM2Wood=true
+    B:UUM2Wool=true
+}
+
+
+####################
+# worldgeneration
+####################
+
+worldgeneration {
+    B:Bauxiteore=true
+    B:Cinnabarore=true
+    B:Cooperiteore=true
+    B:EnderAsteroids=true
+    I:IridiumProbability=20
+    B:Iridiumore=true
+    B:Olivineore=true
+    B:Pyriteore=true
+    B:Rubyore=true
+    B:Sapphireore=true
+    B:Silverore=false
+    B:Sodaliteore=true
+    B:Sphaleriteore=true
+    B:Tungstateore=true
+}
+
+
